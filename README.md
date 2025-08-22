@@ -11,25 +11,19 @@
 <img align="right" alt="coding" width="400px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IxYjczNjMxZTE4YTlmMjkxNGVhZGNkY2E2Zjk1NTA4MmNkMGJhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
 Hi! I'm Gonzalo López, a Software Engineer passionate about technology, software development, and solving real-world problems through programming.
-
 I have experience in:
+- 💻 Application development with C#, ASP.NET, Entity Framework, and MVC architecture.
+- 🗄️ Relational databases using SQL Server.
+- 🏗️ Software design patterns (Singleton, Decorator, Composite, Bridge, etc.) applied in real-world projects.
+- 🤖 Artificial Intelligence and Computer Vision, including convolutional neural networks for sign language recognition.
 
-💻 Application development with C#, ASP.NET, Entity Framework, and MVC architecture.
-
-🗄️ Relational databases using SQL Server.
-
-🏗️ Software design patterns (Singleton, Decorator, Composite, Bridge, etc.) applied in real-world projects.
-
-🤖 Artificial Intelligence and Computer Vision, including convolutional neural networks for sign language recognition.
 
 I’m highly motivated to keep learning new technologies, improve my skills in software architecture, and contribute to projects that create a positive impact. 🚀
 
 🎯 Goals
 
 Build scalable and high-quality solutions.
-
 Contribute to open-source collaborative projects.
-
 Keep growing in fields such as AI, cloud computing, and cybersecurity.
 
 📫 Get in Touch
