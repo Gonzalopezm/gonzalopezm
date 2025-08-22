@@ -28,11 +28,11 @@ Keep growing in fields such as AI, cloud computing, and cybersecurity.
 
 📫 Get in Touch
 
-<a href= "(glm.inge7@gmail.com)">
+<a href= "mailto:glm.inge7@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail">
 </a>
 
-<a href= "(www.linkedin.com/in/ing-glm)">
+<a href= "https://www.linkedin.com/in/ing-glm">
     <img src="https://skillicons.dev/icons?i=linkedin">
 </a>
 
